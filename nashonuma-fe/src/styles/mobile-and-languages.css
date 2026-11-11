@@ -1,0 +1,45 @@
+/* Mobile layout, language switcher and Urdu RTL.
+   Adapted from the prototype's mobile-and-languages.css: the phone frame (.solo/.phone/.m-status)
+   is gone; under 768px App wraps the app in .mob, which now fills the screen. */
+
+/* ---- Whole app on a phone (App adds .mob under 768px) ---- */
+.mob { position: fixed; inset: 0; overflow: hidden; background: #FFFFFF; }
+.mob > div { display: block !important; height: 100% !important; min-height: 0 !important; position: relative; font-size: 14px !important; }
+.mob > div > aside:first-of-type { position: absolute !important; top: 0 !important; left: 0 !important; height: 100% !important; width: 272px !important; transform: translateX(-105%); transition: transform 0.2s ease; z-index: 60 !important; box-shadow: 0 12px 32px rgba(15, 23, 42, 0.18); }
+.mob.open > div > aside:first-of-type { transform: none; }
+.mob > div > aside:first-of-type + div { height: 100%; overflow-y: auto; overflow-x: hidden; }
+.mob-backdrop { position: absolute; inset: 0; background: rgba(15, 23, 42, 0.35); z-index: 55; }
+.mob header { height: 56px !important; padding: 0 12px !important; gap: 8px !important; }
+.mob header > :nth-child(5) { display: none !important; }
+.mob header > :nth-child(2) > span:first-child, .mob header > :nth-child(2) > .n-icon { display: none !important; }
+.mob header > :nth-child(2) > span:last-child { overflow: hidden; text-overflow: ellipsis; }
+.mob header [style*="width:320px"], .mob header [style*="width: 320px"] { width: 290px !important; }
+.mob main { padding: 16px !important; gap: 16px !important; }
+.mob main h1 { font-size: 22px !important; }
+.mob main [style*="grid-template-columns"]:not(:is([style*="min-width: 5"], [style*="min-width: 6"], [style*="min-width: 7"], [style*="min-width: 8"], [style*="min-width: 9"], [style*="min-width:5"], [style*="min-width:6"], [style*="min-width:7"], [style*="min-width:8"], [style*="min-width:9"]) *) { grid-template-columns: minmax(0, 1fr) !important; }
+.mob main [style*="max-width:340px"], .mob main [style*="max-width: 340px"] { max-width: none !important; }
+.mob main [style*="padding:24px"], .mob main [style*="padding: 24px"] { padding: 16px !important; }
+@media (prefers-reduced-motion: reduce) { .mob > div > aside:first-of-type { transition: none; } }
+
+/* one scroll area, no visible bars, no scroll chaining */
+.mob > div > aside:first-of-type + div, .mob [style*="overflow-y"], .mob [style*="overflow-x"], .mob [style*="overflow: auto"] { scrollbar-width: none; overscroll-behavior: contain; -webkit-overflow-scrolling: touch; }
+.mob ::-webkit-scrollbar { width: 0; height: 0; display: none; }
+.mob > div > aside:first-of-type { overflow-y: auto; overscroll-behavior: contain; }
+
+/* ---- Language switcher ---- */
+.nn-lang { display: inline-flex; padding: 3px; gap: 2px; border-radius: 10px; background: #F1F5F9; border: 1px solid #E2E8F0; flex: none; }
+.nn-lang-b { height: 28px; min-width: 38px; padding: 0 10px; border: 0; border-radius: 7px; background: transparent; color: #64748B; font: inherit; font-size: 12px; font-weight: 700; cursor: pointer; }
+.nn-lang-b.on { background: #FFFFFF; color: #1D4ED8; box-shadow: var(--shadow-sm); }
+.nn-lang-b:focus-visible { outline: 3px solid #DBEAFE; outline-offset: 1px; }
+
+/* ---- Child exercises: animated model drawing ---- */
+.x-model { stroke-dasharray: 1; stroke-dashoffset: 1; animation: x-draw 1.8s ease-in-out 0.3s forwards; }
+@keyframes x-draw { to { stroke-dashoffset: 0; } }
+@media (prefers-reduced-motion: reduce) { .x-model { animation: none; stroke-dashoffset: 0; } }
+@media (prefers-reduced-motion: reduce) { * { scroll-behavior: auto !important; } }
+
+/* ---- Urdu: right-to-left ---- */
+html[data-lang="ur"] body { direction: rtl; }
+html[data-lang="ur"] body, html[data-lang="ur"] button, html[data-lang="ur"] input, html[data-lang="ur"] textarea, html[data-lang="ur"] select { font-family: "Noto Nastaliq Urdu", "Jameel Noori Nastaleeq", "Noto Naskh Arabic", "Segoe UI", Tahoma, var(--font-body), sans-serif; }
+html[data-lang="ur"] main h1 { line-height: 1.5; }
+html[data-lang="ur"] .nn-lang-b, html[data-lang="ur"] [style*="monospace"], html[data-lang="ur"] svg, html[data-lang="ur"] canvas { direction: ltr; }

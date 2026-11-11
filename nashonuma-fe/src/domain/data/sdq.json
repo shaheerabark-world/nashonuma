@@ -1,0 +1,120 @@
+{
+ "SDQ_SCALES": [
+  {
+   "k": "emo",
+   "en": "Emotional symptoms",
+   "ur": "جذباتی علامات",
+   "mn": "Сэтгэл хөдлөлийн шинж",
+   "items": [
+    3,
+    8,
+    13,
+    16,
+    24
+   ]
+  },
+  {
+   "k": "con",
+   "en": "Conduct problems",
+   "ur": "رویے کے مسائل",
+   "mn": "Зан үйлийн асуудал",
+   "items": [
+    5,
+    7,
+    12,
+    18,
+    22
+   ]
+  },
+  {
+   "k": "hyp",
+   "en": "Hyperactivity / inattention",
+   "ur": "بے چینی / توجہ کی کمی",
+   "mn": "Хэт идэвхжил / анхаарал",
+   "items": [
+    2,
+    10,
+    15,
+    21,
+    25
+   ]
+  },
+  {
+   "k": "peer",
+   "en": "Peer relationship problems",
+   "ur": "ہم عمروں سے تعلقات کے مسائل",
+   "mn": "Үе тэнгийнхэнтэй харилцааны асуудал",
+   "items": [
+    6,
+    11,
+    14,
+    19,
+    23
+   ]
+  },
+  {
+   "k": "pro",
+   "en": "Prosocial behaviour",
+   "ur": "مددگار رویہ",
+   "mn": "Нийгэмд эерэг зан",
+   "items": [
+    1,
+    4,
+    9,
+    17,
+    20
+   ]
+  }
+ ],
+ "SDQ_REV": [
+  7,
+  11,
+  14,
+  21,
+  25
+ ],
+ "SDQ_TOPIC": {
+  "1": "Considerate of others",
+  "2": "Restless, overactive",
+  "3": "Headaches or stomach-aches",
+  "4": "Shares readily",
+  "5": "Tempers",
+  "6": "Rather solitary",
+  "7": "Generally does as asked",
+  "8": "Many worries",
+  "9": "Helpful if someone is hurt",
+  "10": "Fidgety",
+  "11": "Has at least one good friend",
+  "12": "Fights or bullies",
+  "13": "Often unhappy",
+  "14": "Generally liked by other children",
+  "15": "Easily distracted",
+  "16": "Nervous in new situations",
+  "17": "Kind to younger children",
+  "18": "Lies or cheats",
+  "19": "Picked on by other children",
+  "20": "Volunteers to help",
+  "21": "Thinks things out before acting",
+  "22": "Takes things that are not theirs",
+  "23": "Gets on better with adults",
+  "24": "Many fears",
+  "25": "Good attention span"
+ },
+ "SDQ_OPTS": {
+  "en": [
+   "Not true",
+   "Somewhat true",
+   "Certainly true"
+  ],
+  "ur": [
+   "درست نہیں",
+   "کسی حد تک درست",
+   "بالکل درست"
+  ],
+  "mn": [
+   "Үнэн биш",
+   "Хэсэгчлэн үнэн",
+   "Яг үнэн"
+  ]
+ }
+}

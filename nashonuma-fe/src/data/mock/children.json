@@ -1,0 +1,185 @@
+[
+ {
+  "id": "CH-1021",
+  "name": "Ayesha Khan",
+  "sex": "Girl",
+  "dob": "2024-09-12",
+  "area": "Takht Bhai",
+  "hist": [
+   {
+    "id": "MB-3101",
+    "date": "2026-03-10",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     17,
+     16,
+     16,
+     17,
+     15,
+     16,
+     17
+    ]
+   },
+   {
+    "id": "MB-3188",
+    "date": "2026-10-02",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     19,
+     19,
+     18,
+     19,
+     17,
+     19,
+     19
+    ]
+   }
+  ]
+ },
+ {
+  "id": "CH-1034",
+  "name": "Bilal Ahmed",
+  "sex": "Boy",
+  "dob": "2025-03-02",
+  "area": "Mardan",
+  "hist": [
+   {
+    "id": "MB-3150",
+    "date": "2026-08-20",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     15,
+     14,
+     14,
+     13,
+     12,
+     13,
+     14
+    ]
+   }
+  ]
+ },
+ {
+  "id": "CH-1047",
+  "name": "Zainab Noor",
+  "sex": "Girl",
+  "dob": "2023-12-20",
+  "area": "Katlang",
+  "hist": [
+   {
+    "id": "MB-2954",
+    "date": "2025-06-15",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     15,
+     15,
+     14,
+     15,
+     15,
+     15,
+     16
+    ]
+   },
+   {
+    "id": "MB-3046",
+    "date": "2026-01-20",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     18,
+     17,
+     18,
+     18,
+     17,
+     18,
+     18
+    ]
+   },
+   {
+    "id": "MB-3172",
+    "date": "2026-09-18",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     21,
+     20,
+     20,
+     21,
+     19,
+     20,
+     21
+    ]
+   }
+  ]
+ },
+ {
+  "id": "CH-1052",
+  "name": "Hamza Ali",
+  "sex": "Boy",
+  "dob": "2025-11-08",
+  "area": "Takht Bhai",
+  "hist": []
+ },
+ {
+  "id": "CH-1085",
+  "name": "Usman Ahmed",
+  "sex": "Boy",
+  "dob": "2014-03-10",
+  "area": "Mardan",
+  "country": "PK",
+  "hist": []
+ },
+ {
+  "id": "MN-2001",
+  "name": "Anujin Bat",
+  "sex": "Girl",
+  "dob": "2024-12-02",
+  "area": "Ulaanbaatar",
+  "country": "MN",
+  "hist": []
+ },
+ {
+  "id": "CH-1078",
+  "name": "Sana Ahmed",
+  "sex": "Girl",
+  "dob": "2022-06-14",
+  "area": "Mardan",
+  "country": "PK",
+  "hist": []
+ },
+ {
+  "id": "CH-1060",
+  "name": "Maryam Shah",
+  "sex": "Girl",
+  "dob": "2024-04-15",
+  "area": "Mardan",
+  "hist": [
+   {
+    "id": "MB-3021",
+    "date": "2025-12-05",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     16,
+     16,
+     15,
+     16,
+     14,
+     15,
+     16
+    ]
+   },
+   {
+    "id": "MB-3133",
+    "date": "2026-07-14",
+    "by": "Dr Sana Iqbal",
+    "scores": [
+     18,
+     18,
+     17,
+     17,
+     15,
+     16,
+     18
+    ]
+   }
+  ]
+ }
+]

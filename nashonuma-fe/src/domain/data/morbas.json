@@ -1,0 +1,663 @@
+{
+ "MB_TODAY": "2026-11-06",
+ "MB_DOM": {
+  "en": [
+   "Gross motor skills",
+   "Fine motor skills",
+   "Everyday habits / self-care",
+   "Social and emotional",
+   "Expressive language",
+   "Receptive language",
+   "Cognitive development"
+  ],
+  "mn": [
+   "Том булчингийн хөдөлгөөн",
+   "Жижиг булчингийн хөдөлгөөн",
+   "Дадал хэвшил",
+   "Нийгэм сэтгэл зүй",
+   "Илэрхийлэх хэл яриа",
+   "Ойлгох хэл яриа",
+   "Танин мэдэхүй"
+  ]
+ },
+ "MB_SHORT": [
+  "Gross motor",
+  "Fine motor",
+  "Self-care",
+  "Social-emotional",
+  "Expressive language",
+  "Receptive language",
+  "Cognitive"
+ ],
+ "MB_ROWS": {
+  "en": [
+   [
+    "Turns head to either side when lying face down.",
+    "Grasps an object that touches the hand.",
+    "Turns toward the breast when held while hungry.",
+    "Stops crying when picked up and held.",
+    "Cries loudly.",
+    "Responds to loud sounds.",
+    "Likes looking at brightly coloured objects."
+   ],
+   [
+    "Lifts head slightly when lying on the stomach.",
+    "Puts a hand into the mouth and sucks it.",
+    "Pushes the nipple away with the tongue and turns away when full.",
+    "Watches people’s faces attentively.",
+    "Uses different types of cries.",
+    "Shows by movement or vocalization that a sound has been heard.",
+    "Gazes steadily at an object."
+   ],
+   [
+    "Lifts head well when lying on the stomach.",
+    "Follows a moving object with the eyes.",
+    "Shows displeasure when the face is covered with a cloth.",
+    "Looks toward a person’s voice.",
+    "Makes sounds other than crying.",
+    "Is soothed by a human voice.",
+    "Recognizes the parents."
+   ],
+   [
+    "Holds head steadily and turns it in the desired direction.",
+    "Holds a toy placed in the hand.",
+    "Drinks from a spoon.",
+    "Makes sounds and smiles or laughs during interaction.",
+    "Laughs or chuckles aloud.",
+    "Responds with sounds and smiles when spoken to.",
+    "Anticipates being picked up and responds."
+   ],
+   [
+    "Rolls to the other side when placed on one side.",
+    "Shakes a rattle.",
+    "Becomes more active upon seeing a toy.",
+    "Smiles upon seeing a person.",
+    "Coos.",
+    "Recognizes the mother’s voice.",
+    "Pays attention toward the source of a sound."
+   ],
+   [
+    "Rolls over.",
+    "Reaches out and grasps an object independently.",
+    "Holds a biscuit or boortsog (fried dough snack) and eats a little.",
+    "Moves arms and legs excitedly when seeing their reflection.",
+    "Becomes happy and excited when someone interacts with them.",
+    "Listens when music plays.",
+    "Listens attentively when the television or radio is on."
+   ],
+   [
+    "Crawls on the stomach and pivots in place.",
+    "Transfers a toy from one hand to the other.",
+    "Drinks when a cup is brought close to the mouth.",
+    "Distinguishes affectionate from angry facial expressions.",
+    "Makes sounds directed toward toys.",
+    "Turns the head when called.",
+    "Is frightened by unfamiliar sounds or voices."
+   ],
+   [
+    "Sits independently.",
+    "Attempts to pick up an object with a pinching grasp.",
+    "Objects when someone tries to wipe the face.",
+    "Smiles and vocalizes at the mirror.",
+    "Produces a short, single-syllable sound.",
+    "Understands disapproval from parents’ tone of voice.",
+    "Moves to music."
+   ],
+   [
+    "Stands while holding onto something.",
+    "Deliberately drops objects.",
+    "Holds a cup with both hands and brings it toward the mouth.",
+    "Shows displeasure when a toy is taken away.",
+    "Uses some gestures.",
+    "Is startled by a sudden sound.",
+    "Plays by banging objects."
+   ],
+   [
+    "Pulls up to standing by holding onto something.",
+    "Opens and closes a container’s lid.",
+    "Expresses wants without crying.",
+    "Imitates movements.",
+    "Babbles.",
+    "Understands “No” or “Don’t.”",
+    "Looks toward a toy that has fallen."
+   ],
+   [
+    "Walks while holding onto something.",
+    "Plays by pushing a toy car.",
+    "Turns the television on and off.",
+    "Imitates sounds.",
+    "Varies the tone of voice.",
+    "Responds when someone says “Goodbye.”",
+    "Points to a toy when asked where it is."
+   ],
+   [
+    "Stands independently without support.",
+    "Puts objects into a container.",
+    "Holds a cup and drinks independently.",
+    "Follows the parents.",
+    "Correctly imitates one or two words.",
+    "Gives an object being held when asked, “Give it to me.”",
+    "Recognizes personal belongings by shape or appearance."
+   ],
+   [
+    "Gets up from sitting without holding onto anything.",
+    "Attempts to pick up crumbs from inside a cup.",
+    "Attempts to eat with a spoon.",
+    "Repeats an action when praised.",
+    "Says single words, e.g. “Daddy” or “Mummy.”",
+    "Comes when told, “Come here.”",
+    "Looks at pictures with interest."
+   ],
+   [
+    "Takes several steps independently.",
+    "Stacks objects.",
+    "Attempts to wipe the mouth independently.",
+    "Helps with simple tasks.",
+    "Says more than three words.",
+    "Follows a simple instruction, e.g. “Bring the newspaper.”",
+    "Knows where an object is when hidden in front of them."
+   ],
+   [
+    "Walks backward.",
+    "Scribbles.",
+    "Separates the legs to help when trousers are put on.",
+    "Seeks help when something is difficult.",
+    "Points to one pictured item when asked.",
+    "Wants someone to read a picture book to them.",
+    "Acts cautiously when told, “It’s hot.”"
+   ],
+   [
+    "Runs.",
+    "Makes circular marks with a pencil.",
+    "Drinks through a straw.",
+    "Holds hands with another child.",
+    "Points to three pictured items when asked.",
+    "Points to eyes, mouth, ears, nose, hands, feet and tummy.",
+    "Squeezes a squeaky toy to make it sound."
+   ],
+   [
+    "Walks upstairs, bringing both feet onto each step.",
+    "Moves objects and changes their positions.",
+    "Indicates the need to urinate.",
+    "Plays separately from the parents.",
+    "Combines words, e.g. “Dog came.”",
+    "Understands “Please give me more.”",
+    "Opens the cap of a drink bottle."
+   ],
+   [
+    "Kicks a ball.",
+    "Hangs onto something using both hands.",
+    "Puts on some clothing independently.",
+    "Pretends to talk on the telephone.",
+    "Uses words expressing opinions, e.g. “nice” or “ugly.”",
+    "Points to hair, teeth, tongue, belly button and nails.",
+    "Puts toys back in their place."
+   ],
+   [
+    "Bounces or jumps on both feet.",
+    "Copies a horizontal line.",
+    "Eats independently without spilling.",
+    "Reports a disagreement with another child.",
+    "Says their own name.",
+    "Distinguishes big from small.",
+    "Recognizes daily routines, e.g. bedtime when the bed is prepared."
+   ],
+   [
+    "Walks upstairs using alternating feet.",
+    "Copies a circle.",
+    "Puts on socks independently.",
+    "Attempts to care for a younger child.",
+    "Repeats two numbers: 3 and 8.",
+    "Distinguishes long from short.",
+    "Places a chair to reach something high up."
+   ],
+   [
+    "Stands briefly on one foot.",
+    "Copies a vertical line.",
+    "Takes off clothing independently.",
+    "Takes on a role during pretend family or house play.",
+    "Knows numbers up to 10.",
+    "Knows more than four colours.",
+    "Can divide something into equal-sized portions."
+   ],
+   [
+    "Turns around in place on one foot.",
+    "Fastens buttons.",
+    "Washes the face independently.",
+    "Asks permission, e.g. “May I do this?”",
+    "Talks with children of the same age.",
+    "Understands tall and short.",
+    "Recognizes whether objects are the same or different."
+   ],
+   [
+    "Jumps upward.",
+    "Copies a cross (+).",
+    "Uses a handkerchief or tissue to blow the nose independently.",
+    "Takes turns using things with another child.",
+    "Recites part of a poem from memory.",
+    "Gives two objects when asked to bring two.",
+    "Understands positions: on/above, under/below and beside."
+   ]
+  ],
+  "mn": [
+   [
+    "доош нь харуулж хэвтүүлэхэд толгойгоо аль нэг тал руу эргүүлнэ",
+    "гартаа хүрсэн юмыг барина",
+    "өлссөн үед нь тэврэхэд нүүрээ хөх рүү явуулна",
+    "уйлж байхад нь тэврэхэд чимээгүй болно",
+    "чанга уйлна",
+    "чанга чимээнд хариу үзүүлнэ",
+    "тод өнгийн зүйл рүү харах дуртай"
+   ],
+   [
+    "түрүүлэг нь харуулж хэвтүүлэхэд толгойгоо бага зэрэг өргөнө",
+    "гараа амандаа хийж хөхнө",
+    "цадахаараа хөхний толгойг хэлээрээ түлхэж нүүрээ буруулна",
+    "хүний царайг ажиглан харна",
+    "янз бүрээр уйлна",
+    "чимээ сонсогдож байгааг үйл хөдлөл, дуу авиагаар илэрхийлнэ",
+    "юм руу ширтэнэ"
+   ],
+   [
+    "түрүүлэг нь харуулж хэвтүүлэхэд толгойгоо сайн өргөнө",
+    "дагуулж харна",
+    "нүүрийг нь даавуугаар бүтээхэд дургүйцлээ илэрхийлнэ",
+    "хүний дуу гарсан зүг харна",
+    "уйлахгүйгээр дуу авиа гаргана",
+    "хүний дуунаар тайвширна",
+    "эцэг эхийгээ танина"
+   ],
+   [
+    "толгойгоо бүрэн дааж хүссэн зүгтээ эргүүлнэ",
+    "тоглоомыг нь гарт нь атгуулахад барьж чадна",
+    "халбаганаас ууж чадна",
+    "харьцахад дуу гаргаж инээнэ",
+    "ход ход инээнэ",
+    "хүүхдэд хандаж ярихад хариу дуугарч инээнэ",
+    "тэврэх гэж байгааг мэдээд хариу үзүүлнэ"
+   ],
+   [
+    "хажуу тийш нь харуулж хэвтүүлэхэд нөгөө тийшээ эргэнэ",
+    "шажигнуур тоглоом сэгсэрнэ",
+    "тоглоомоо харахаар хөдөлгөөн нь идэвхжинэ",
+    "хүн хараад инээнэ",
+    "ганганана",
+    "эхийнхээ дуу хоолойг ялгана",
+    "дуу гарч буй зүг анхаарал хандуулна"
+   ],
+   [
+    "эргэж хөрвөөнө",
+    "өөрөө гараа сунгаж юм атгана",
+    "боорцогоо өөрөө барьж бага зэрэг иднэ",
+    "толинд өөрийгөө хараад сарваганана",
+    "өөрт нь хандсан тохиолдолд баярлаж хөөрнө",
+    "хөгжим дуугарахад сонсоно",
+    "телевиз радио ажиллахад анхааралтай сонсоно"
+   ],
+   [
+    "хэвлийгээрээ мөлхөж нэг газраа эргэнэ",
+    "тоглоом нэг гараасаа нөгөө гартаа шилжүүлж барьна",
+    "аяга ам руу нь ойртуулахад ууна",
+    "өхөөрдсөн ба уурласан царайг ялгана",
+    "тоглоомонд хандаж дуу гаргана",
+    "дуудахад толгойгоо эргүүлэн харна",
+    "дасаагүй чимээ, дуу хоолойноос айна"
+   ],
+   [
+    "ганцаараа сууна",
+    "юм чимхэж барих гэж оролдоно",
+    "нүүрийг нь арчих гэхэд дургүйцнэ",
+    "толь руу харж инээж ярих зэрэг үйлдэл хийнэ",
+    "нэг үетэй богино авиа хэлнэ",
+    "эцэг эхийнхээ дууны өнгөнөөс болохгүй гэж байгааг ойлгоно",
+    "хөгжмийн аяар хөдөлнө"
+   ],
+   [
+    "юмнаас түшиж зогсоно",
+    "албаар юм унагана",
+    "аягаа 2 гараараа барьж ам руугаа ойртуулна",
+    "тоглоомыг нь авахад дургүйцлээ илэрхийлнэ",
+    "зарим дохио зангааг хийнэ",
+    "гэнэтийн чимээнээс цочно",
+    "юм цохиж тоглоно"
+   ],
+   [
+    "юмнаас зуурч татаж босно",
+    "савны тагийг онгойлгож таглана",
+    "уйлалгүйгээр хүслээ илэрхийлнэ",
+    "дуурайж хөдөлнө",
+    "шулганана",
+    "болохгүй гэсэн үгийг ойлгоно",
+    "унасан тоглоом руугаа харна"
+   ],
+   [
+    "юмнаас түшиж явна",
+    "тоглоомон машин явуулж тоглоно",
+    "зурагт асааж унтраана",
+    "дуурайж дуугарна",
+    "дууны өнгөө өөрчилнө",
+    "баяртай гэхээр хариу үзүүлнэ",
+    "тоглоом нь хаана байгааг асуухад хуруугаараа заана"
+   ],
+   [
+    "юм түшилгүйгээр ганцаараа зогсч чадна",
+    "саванд юм хийнэ",
+    "аягаа өөрөө барьж ууна",
+    "эцэг эхийгээ дагана",
+    "1-2 үг зөв дуурайж хэлнэ",
+    "надад өг гэхээр барьж байгаа юмаа өгнө",
+    "өөрийн эд зүйлсийг хэлбэр дүрсээр нь танина"
+   ],
+   [
+    "юм түшилгүйгээр суусан байрлалаас өөрөө босч чадна",
+    "аяган доторх үйрмэгийг авах гэж оролдоно",
+    "халбагаар идэх гэж оролдоно",
+    "магтуулахаараа 1 үйлдлээ давтана",
+    "аав ээж гэх мэт ганц үг хэлнэ",
+    "нааш ир гэхээр хүрч ирнэ",
+    "ямар нэг зургийг сонирхож харна"
+   ],
+   [
+    "ганцаараа хэд хэд алхана",
+    "юмыг давхарлаж тавина",
+    "амаа өөрөө арчихыг оролдоно",
+    "хялбар зүйл дээр тусална",
+    "3-с дээш үг хэлнэ",
+    "амархан зааврыг биелүүлнэ (сонин аваад ир)",
+    "нүдэн дээр нь юм нуухад мэднэ"
+   ],
+   [
+    "ухарч явна",
+    "сараачна",
+    "өмдийг нь өмсүүлэх үед 2 хөлөө салгаж өгнө",
+    "хэцүү зүйлтэй учрахаараа тусламж эрнэ",
+    "зурагнаас 1 зүйлийг асуухад заана",
+    "зурагтай ном уншуулах гэнэ",
+    "халуун шүү гэж хэлэхэд болгоомжилно"
+   ],
+   [
+    "гүйнэ",
+    "харандаагаар дугуйруулж зурна",
+    "соруулаар ууна",
+    "найзтайгаа гараа хөтөлнө",
+    "зурагнаас 3 зүйлийг асуухад заана",
+    "нүд, ам, чих, хамар, гар, хөл, гэдсээ заана",
+    "базахад дуугардаг тоглоомыг базаж тоглоно"
+   ],
+   [
+    "шатаар өгсөхдөө шатны тавиур дээр хөлөө зэрэгцүүлэн зөөнө",
+    "эд юмсыг хөдөлгөж байрлалыг нь солино",
+    "шээх гэж байгаагаа мэдэгднэ",
+    "эцэг эхээсээ тусдаа тоглоно",
+    "үг холбож ярина (нохой ирэв гэх мэт)",
+    "дахиад өгөөч гэхээр ойлгоно",
+    "ундааны савны таг онгойлгоно"
+   ],
+   [
+    "бөмбөг өшиглөнө",
+    "юмнаас 2 гараараа зүүгдэж чадна",
+    "зарим хувцсаа өөрөө өмсөнө",
+    "утсаар ярьж тоглоно",
+    "гоё, муухай гэх зэргээр сэтгэгдлээ илэрхийлсэн үг хэлнэ",
+    "үс, шүд, хэл, хүйс, хумсаа заана",
+    "тоглоомоо буцааж байранд нь тавьна"
+   ],
+   [
+    "2 хөл дээрээ дэвхцэнэ",
+    "хөндлөн зураас дуурайж татна",
+    "асгалгүйгээр өөрөө иднэ",
+    "найзтайгаа муудалцаад ховлохоор ирнэ",
+    "өөрийн нэрийг хэлнэ",
+    "том жижгийг ялгана",
+    "өдөр бүр давтагддаг үйлийг мэднэ (ор засахад унтах болсныг мэднэ)"
+   ],
+   [
+    "2 хөлөөрөө ээлжлэн шатаар өгсөнө",
+    "дугуй дүрс дуурайж зурж чадна",
+    "оймсоо өөрөө өмсөнө",
+    "өөрөөсөө дүү хүүхдийг халамжлах гэнэ",
+    "2 тоог дагаж хэлнэ 3-8",
+    "урт богиныг ялгана",
+    "өндөрт байгаа юманд хүрэхдээ сандал тавьна"
+   ],
+   [
+    "нэг хөл дээрээ түр зуур зогсоно",
+    "босоо зураас дуурайж татна",
+    "хувцсаа өөрөө тайлна",
+    "айл гэр болж тоглох үедээ дүрд орно",
+    "10 хүртэл тоо мэднэ",
+    "4-с илүү өнгө мэднэ",
+    "ямар нэг юмыг адилхан хэмжээтэй хувааж чадна"
+   ],
+   [
+    "нэг хөл дээрээ дороо эргэж чадна",
+    "товч товчилж чадна",
+    "нүүрээ өөрөө угаана",
+    "ингэж болох уу гэж зөвшөөрөл хүснэ",
+    "үеийн хүүхэдтэй ярилцана",
+    "өндөр намыг ойлгоно",
+    "эд юмсын ижил ба ялгаатай эсэхийг мэднэ"
+   ],
+   [
+    "дээшээ үсэрнэ",
+    "хэрээс дуурайж зурж чадна",
+    "нусны алчуур барьж нусаа өөрөө нийнэ",
+    "найзтайгаа ээлжлэн юм хэрэглэнэ",
+    "шүлгийн хэсгээс цээжээр уншина",
+    "ямар нэг зүйлийг 2-г аваад өг гэхэд авч өгнө",
+    "байрлал мэднэ (дээр, доор, хажууд)"
+   ]
+  ]
+ },
+ "MB_STAR": {
+  "1-21": {
+   "fig": "foot",
+   "en": "Ask the child to stand on one foot. Count as completed if the other foot stays raised for 4–5 seconds.",
+   "mn": "Нэг хөл дээр нь зогсоож үзэхэд хөлөө 4-5 секунд барьж чадаж байвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "2-16": {
+   "fig": "scribble",
+   "en": "Demonstrate a circular drawing. Count as completed if the child imitates it with circular marks.",
+   "mn": "Дугуй дүрс зурж үзүүлэхэд дуурайлган дугуйруулж ямар нэг зүйл зурвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "2-19": {
+   "fig": "hline",
+   "en": "Draw a horizontal line. Count as completed if the child copies it.",
+   "mn": "Хөндлөн зураас татаж үзүүлэхэд дуурайлган татаж байвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "2-20": {
+   "fig": "circle",
+   "en": "Draw a circle. Count as completed if the child copies a closed shape resembling a circle.",
+   "mn": "Дугуй дүрс зурж үзүүлэхэд дуурайлган дугуй төст битүү дүрс зурж чадвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "2-21": {
+   "fig": "vline",
+   "en": "Draw a vertical line. Count as completed if the child copies it.",
+   "mn": "Босоо зураас татаж үзүүлэхэд дуурайлган татаж байвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "2-23": {
+   "fig": "cross",
+   "en": "Draw a cross (+). Count as completed if the child copies it.",
+   "mn": "Хэрээс зурж үзүүлэхэд дуурайлган зурж чадаж байвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "5-15": {
+   "fig": "pics",
+   "en": "Count as completed if the child points to any one pictured animal when asked.",
+   "mn": "Хүүхэд эдгээр зургаас аль нэг амьтныг зааж чадвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "5-16": {
+   "fig": "pics",
+   "en": "Count as completed if the child points to any three pictured figures when asked.",
+   "mn": "Хүүхэд эдгээр зургаас аль нэг 3-г зааж чадвал энэ үйлдлийг хийсэнд тооцно."
+  },
+  "5-20": {
+   "fig": "nums",
+   "en": "Ask the child to repeat the numbers 3 and 8.",
+   "mn": "3, 8 гэсэн тоонуудыг давтуулж хэлүүлнэ."
+  },
+  "5-21": {
+   "fig": "count",
+   "en": "Ask the child to count up to 10.",
+   "mn": "10 хүртэл тоолуулж үзнэ."
+  },
+  "6-16": {
+   "fig": "body",
+   "en": "Ask the child to point to eyes, mouth, ears, nose, hands, feet and tummy.",
+   "mn": "Нүд, ам, чих, хамар, гар, хөл, гэдсийг нь заалгуулна."
+  },
+  "6-18": {
+   "fig": "body",
+   "en": "Ask the child to point to hair, teeth, tongue, belly button and nails.",
+   "mn": "Үс, шүд, хэл, хүйс, хумсыг нь заалгуулна."
+  },
+  "6-19": {
+   "fig": "big",
+   "en": "Ask: “Which one is big?”",
+   "mn": "Аль нь том бэ? гэж асууна."
+  },
+  "6-20": {
+   "fig": "long",
+   "en": "Ask: “Which one is long?”",
+   "mn": "Аль нь урт вэ? гэж асууна."
+  },
+  "6-22": {
+   "fig": "tall",
+   "en": "Ask: “Which one is tall?”",
+   "mn": "Аль нь өндөр вэ? гэж асууна."
+  },
+  "7-22": {
+   "fig": "same",
+   "en": "Ask: “Are these two the same or different?”",
+   "mn": "Энэ хоёр адилхан байна уу өөр байна уу? гэж асууна."
+  },
+  "7-23": {
+   "fig": "pos",
+   "en": "Ask: “Where is the ball in relation to the table?” The child should answer “on”, “under” or “beside”, according to the picture.",
+   "mn": "Энэ бөмбөг ширээний хаана байна вэ? гэж асуухад дээр доор хажууд гэж хариулах ёстой."
+  }
+ },
+ "MB_AGE": {
+  "en": [
+   "",
+   "16–30 days",
+   "1 month",
+   "2 months",
+   "3 months",
+   "4 months",
+   "5 months",
+   "6 months",
+   "7 months",
+   "8 months",
+   "9 months",
+   "10 months",
+   "11 months",
+   "12–13 months",
+   "14–15 months",
+   "16–17 months",
+   "18–20 months",
+   "21–23 months",
+   "24–26 months",
+   "27–29 months",
+   "30–32 months",
+   "33–35 months",
+   "36–39 months",
+   "40–42 months"
+  ],
+  "mn": [
+   "",
+   "16 хоног ~ 30 хоног",
+   "1 сар",
+   "2 сар",
+   "3 сар",
+   "4 сар",
+   "5 сар",
+   "6 сар",
+   "7 сар",
+   "8 сар",
+   "9 сар",
+   "10 сар",
+   "11 сар",
+   "1 нас 0 сар - 1 нас 1 сар",
+   "1 нас 2 сар - 1 нас 3 сар",
+   "1 нас 4 сар - 1 нас 5 сар",
+   "1 нас 6 сар - 1 нас 8 сар",
+   "1 нас 9 сар - 1 нас 11 сар",
+   "2 нас 0 сар - 2 нас 2 сар",
+   "2 нас 3 сар - 2 нас 5 сар",
+   "2 нас 6 сар - 2 нас 8 сар",
+   "2 нас 9 сар - 2 нас 11 сар",
+   "3 нас 0 сар - 3 нас 3 сар",
+   "3 нас 4 сар - 3 нас 6 сар"
+  ]
+ },
+ "MB_LO": [
+  0,
+  0.5,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  14,
+  16,
+  18,
+  21,
+  24,
+  27,
+  30,
+  33,
+  36,
+  40
+ ],
+ "MB_HI": [
+  0,
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  14,
+  16,
+  18,
+  21,
+  24,
+  27,
+  30,
+  33,
+  36,
+  40,
+  43
+ ],
+ "MB_RULES": {
+  "en": [
+   "Complete the four fields (name, registration number, date of birth, assessment date) before starting.",
+   "Mark ○ if the child can do the activity and × if not.",
+   "Start at the item that matches the child’s age (Table 2). Complete five items upward and five downward.",
+   "If five consecutive items downward receive ○, continue until × occurs.",
+   "If the five items upward contain only × or just one ○, continue upward until another ○ is recorded.",
+   "For ★ items, ask the child to demonstrate using the materials on page 2."
+  ],
+  "mn": [
+   "Доорх 4 асуултанд хариулсны дараа сорилыг бөглөнө үү.",
+   "Хүүхэд доорх зүйлсийг хийж чадаж байвал ○, чадахгүй байвал × гэж тэмдэглэнэ.",
+   "Хүүхдийн настай тохирох асуултаас (Хүснэгт 2-с харна уу) эхлэн дээш доошоо тус тус 5 асуулт бөглөнө.",
+   "Хэрэв хүүхэд эхлэл цэгээс эхлэн доош үргэлжилсэн 5 асуултанд ○ авбал × гартал үргэлжилнэ.",
+   "Хэрэв хүүхэд дээшээ 5 асуултанд ×, эсвэл ганц ○ авбал дахин нэг ○ автал бөглөнө.",
+   "★ тэмдэгтэй асуултуудыг арын нүүрийг ашиглан хүүхдээр хийлгүүлж үзүүлнэ."
+  ]
+ }
+}

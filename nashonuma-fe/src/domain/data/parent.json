@@ -1,0 +1,214 @@
+{
+ "P_L": {
+  "en": {
+   "app": "NashoNuma for parents",
+   "steps": [
+    "Sign in",
+    "Your child",
+    "Questions",
+    "Your worries",
+    "Review & send"
+   ],
+   "phone": "Your phone number",
+   "sendCode": "Send code",
+   "code": "Enter the 6-digit code we sent by SMS",
+   "cont": "Continue",
+   "back": "Back",
+   "pick": "Which child is this about?",
+   "addKid": "Add another child",
+   "kidName": "Child’s name",
+   "dob": "Date of birth",
+   "sex": "Boy or girl",
+   "boy": "Boy",
+   "girl": "Girl",
+   "save": "Save child",
+   "can": "Can your child do this?",
+   "yes": "Yes",
+   "no": "No",
+   "ns": "Not sure",
+   "area": "Area",
+   "of": "of",
+   "worryQ": "Is anything worrying you?",
+   "worryHint": "Choose any that apply",
+   "note": "Tell us in your own words (optional)",
+   "howW": "How worried are you?",
+   "w": [
+    "Not worried",
+    "A little",
+    "Very worried"
+   ],
+   "review": "Check before sending",
+   "answered": "answered",
+   "consent": "I agree to share these answers with my clinic",
+   "send": "Send to clinic",
+   "sentT": "Sent to your clinic",
+   "sentS": "A health worker will call you within 7 days. Bring your child’s health card to the visit.",
+   "ref": "Reference",
+   "newCheck": "Start a new check",
+   "months": "months",
+   "years": "years",
+   "qCount": "questions",
+   "none": "No worries chosen",
+   "edit": "Change"
+  },
+  "mn": {
+   "app": "NashoNuma эцэг эхэд",
+   "steps": [
+    "Нэвтрэх",
+    "Таны хүүхэд",
+    "Асуултууд",
+    "Таны санаа зовнил",
+    "Шалгаад илгээх"
+   ],
+   "phone": "Таны утасны дугаар",
+   "sendCode": "Код илгээх",
+   "code": "SMS-ээр ирсэн 6 оронтой кодыг оруулна уу",
+   "cont": "Үргэлжлүүлэх",
+   "back": "Буцах",
+   "pick": "Аль хүүхдийн тухай вэ?",
+   "addKid": "Өөр хүүхэд нэмэх",
+   "kidName": "Хүүхдийн нэр",
+   "dob": "Төрсөн огноо",
+   "sex": "Хүү эсвэл охин",
+   "boy": "Хүү",
+   "girl": "Охин",
+   "save": "Хүүхэд хадгалах",
+   "can": "Таны хүүхэд үүнийг хийж чадах уу?",
+   "yes": "Тийм",
+   "no": "Үгүй",
+   "ns": "Мэдэхгүй",
+   "area": "Хэсэг",
+   "of": "/",
+   "worryQ": "Танд санаа зовоож буй зүйл байна уу?",
+   "worryHint": "Тохирохыг сонгоно уу",
+   "note": "Өөрийн үгээр бичнэ үү (заавал биш)",
+   "howW": "Та хэр санаа зовж байна вэ?",
+   "w": [
+    "Санаа зовохгүй",
+    "Бага зэрэг",
+    "Их санаа зовж байна"
+   ],
+   "review": "Илгээхээс өмнө шалгана уу",
+   "answered": "хариулсан",
+   "consent": "Эдгээр хариултыг эмнэлэгтэйгээ хуваалцахыг зөвшөөрч байна",
+   "send": "Эмнэлэг рүү илгээх",
+   "sentT": "Таны эмнэлэг рүү илгээлээ",
+   "sentS": "Эрүүл мэндийн ажилтан 7 хоногийн дотор тантай холбогдоно. Хүүхдийн эрүүл мэндийн картаа авчраарай.",
+   "ref": "Дугаар",
+   "newCheck": "Шинэ сорил эхлүүлэх",
+   "months": "сартай",
+   "years": "настай",
+   "qCount": "асуулт",
+   "none": "Сонгоогүй",
+   "edit": "Засах"
+  }
+ },
+ "P_CONCERNS": [
+  [
+   "talk",
+   "Not talking yet",
+   "Хэл яриа удаан байна"
+  ],
+  [
+   "name",
+   "Doesn’t respond to name",
+   "Нэрээр нь дуудахад хариу үзүүлдэггүй"
+  ],
+  [
+   "move",
+   "Trouble sitting or walking",
+   "Суух, алхахад хүндрэлтэй"
+  ],
+  [
+   "eyes",
+   "Little eye contact",
+   "Нүдээр харьцах нь бага"
+  ],
+  [
+   "feed",
+   "Feeding problems",
+   "Хооллолтын асуудал"
+  ],
+  [
+   "sleep",
+   "Sleep problems",
+   "Нойрны асуудал"
+  ],
+  [
+   "lost",
+   "Lost skills they had",
+   "Эзэмшсэн чадвараа алдсан"
+  ]
+ ],
+ "P_MOTHER": {
+  "name": "Shazia Bibi",
+  "phone": "+92 312 448 2210",
+  "kids": [
+   "CH-1034",
+   "CH-1078",
+   "CH-1085"
+  ]
+ },
+ "TQ": [
+  {
+   "n": 1,
+   "q": "Compared with other children, did the child have any serious delay in sitting, standing, or walking?",
+   "pos": "y"
+  },
+  {
+   "n": 2,
+   "q": "Compared with other children, does the child have difficulty seeing, either in the daytime or at night?",
+   "pos": "y"
+  },
+  {
+   "n": 3,
+   "q": "Does the child appear to have difficulty hearing?",
+   "pos": "y"
+  },
+  {
+   "n": 4,
+   "q": "When you tell the child to do something, does he/she seem to understand what you are saying?",
+   "pos": "n"
+  },
+  {
+   "n": 5,
+   "q": "Does the child have difficulty in walking or moving his/her arms, or does he/she have weakness and/or stiffness in the arms or legs?",
+   "pos": "y"
+  },
+  {
+   "n": 6,
+   "q": "Does the child sometimes have fits, become rigid, or lose consciousness?",
+   "pos": "y"
+  },
+  {
+   "n": 7,
+   "q": "Does the child learn to do things like other children his/her age?",
+   "pos": "n"
+  },
+  {
+   "n": 8,
+   "q": "Does the child speak at all (can he/she make himself/herself understood in words; can he/she say any recognizable words)?",
+   "pos": "n"
+  },
+  {
+   "n": 9,
+   "q3": "Is the child’s speech in any way different from normal (not clear enough to be understood by people other than his/her immediate family)?",
+   "pos3": "y",
+   "q2": "Can he/she name at least one object (for example an animal, a toy, a cup, a spoon)?",
+   "pos2": "n"
+  },
+  {
+   "n": 10,
+   "q": "Compared with other children of his/her age, does the child appear in any way mentally backward, dull or slow?",
+   "pos": "y"
+  }
+ ],
+ "P_AREAS": [
+  0,
+  1,
+  3,
+  4,
+  5,
+  6
+ ]
+}

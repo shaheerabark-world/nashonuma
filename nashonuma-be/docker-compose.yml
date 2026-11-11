@@ -1,0 +1,22 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: nashonuma-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: nashonuma
+      POSTGRES_PASSWORD: nashonuma
+      POSTGRES_DB: nashonuma
+    ports:
+      - "5432:5432"
+    volumes:
+      - nashonuma-pg:/var/lib/postgresql/data
+      - ./docker/init-test-db.sql:/docker-entrypoint-initdb.d/init-test-db.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U nashonuma -d nashonuma"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+volumes:
+  nashonuma-pg:
